@@ -1,0 +1,15 @@
+  /* .panel {
+      padding: 0 18px;
+      background-color: rgba(255, 255, 255, 0.3);
+      max-height: 0;
+      overflow: hidden;
+      width: 67.15%;
+      transition: max-height 0.2s ease-out;
+  } */
+  
+  #text {
+      margin-left: 200px;
+      width: 200px;
+      border: 1px solid;
+      word-wrap: break-word;
+  }
